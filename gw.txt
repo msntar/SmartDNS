@@ -48,6 +48,5 @@ incolumitas.com
 3gppnetwork.org
 nxtrace.org
 doubleclick.net
-about.google
 services.googleapis.cn
 googleapis.cn
