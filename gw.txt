@@ -50,3 +50,4 @@ nxtrace.org
 doubleclick.net
 services.googleapis.cn
 googleapis.cn
+btstu.cn
