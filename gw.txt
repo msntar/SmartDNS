@@ -51,3 +51,4 @@ doubleclick.net
 services.googleapis.cn
 googleapis.cn
 btstu.cn
+shlii.io
