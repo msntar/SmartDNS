@@ -51,6 +51,7 @@ doubleclick.net
 services.googleapis.cn
 googleapis.cn
 btstu.cn
+violet.vin
 shlii.io
 lscr.io
 lucffee.com
